@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FPS.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Documents\Unreal Projects\FPS\Intermediate\Build\Win64\FPSEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Documents\Unreal Projects\FPS\Intermediate\Build\Win64\UE4Editor\Development\FPS\FPS.cpp.obj"
+"E:\Documents\Unreal Projects\FPS\Intermediate\Build\Win64\UE4Editor\Development\FPS\FPSCharacter.cpp.obj"
+"E:\Documents\Unreal Projects\FPS\Intermediate\Build\Win64\UE4Editor\Development\FPS\FPSGameMode.cpp.obj"
+"E:\Documents\Unreal Projects\FPS\Intermediate\Build\Win64\UE4Editor\Development\FPS\FPSHUD.cpp.obj"
+"E:\Documents\Unreal Projects\FPS\Intermediate\Build\Win64\UE4Editor\Development\FPS\FPSProjectile.cpp.obj"
+"E:\Documents\Unreal Projects\FPS\Intermediate\Build\Win64\UE4Editor\Development\FPS\FPS.init.gen.cpp.obj"
+"E:\Documents\Unreal Projects\FPS\Intermediate\Build\Win64\UE4Editor\Development\FPS\FPSCharacter.gen.cpp.obj"
+"E:\Documents\Unreal Projects\FPS\Intermediate\Build\Win64\UE4Editor\Development\FPS\FPSGameMode.gen.cpp.obj"
+"E:\Documents\Unreal Projects\FPS\Intermediate\Build\Win64\UE4Editor\Development\FPS\FPSHUD.gen.cpp.obj"
+"E:\Documents\Unreal Projects\FPS\Intermediate\Build\Win64\UE4Editor\Development\FPS\FPSProjectile.gen.cpp.obj"
+"E:\Documents\Unreal Projects\FPS\Intermediate\Build\Win64\UE4Editor\Development\FPS\Default.rc2.res"
+/OUT:"E:\Documents\Unreal Projects\FPS\Intermediate\Build\Win64\UE4Editor\Development\FPS\UE4Editor-FPS.lib"
+/INCLUDE:IMPLEMENT_MODULE_FPS

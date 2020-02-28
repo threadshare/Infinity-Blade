@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Documents\\Unreal Projects\\FPS\\Source\\FPS\\FPS.Build.cs",
+		"E:\\Documents\\Unreal Projects\\FPS\\Source\\FPS.Target.cs",
+		"E:\\Documents\\Unreal Projects\\FPS\\Source\\FPSEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.2"
+}

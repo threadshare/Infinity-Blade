@@ -16,6 +16,7 @@ DEFINE_LOG_CATEGORY_STATIC(LogFPChar, Warning, All);
 
 //////////////////////////////////////////////////////////////////////////
 // AFPSCharacter
+// 修改了人物的移动速度
 
 AFPSCharacter::AFPSCharacter()
 {
